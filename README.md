@@ -9,6 +9,8 @@
 
 The project is intended to be a personal love letter to the studio's NTSC-localized games, and an excuse to *~~torture myself with~~* finally learn C.
 
+It is going about as well as expected.
+
 ## Story Synopsis (tbd)
 The game is set in a post-apocalyptic world where the player must navigate through a series of dungeons to uncover the truth behind the world's destruction. The game features a unique combat system, a deep story, and retro-inspired graphics.
 
